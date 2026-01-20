@@ -1,1 +1,2 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zyphra/interviews/blob/main/ml-interviews/moe-questions.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zyphra/interviews/blob/main/ml-interviews/moe_v1/moe-questions.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zyphra/interviews/blob/main/ml-interviews/moe_v2/moe-questions.ipynb)
